@@ -1,3 +1,7 @@
 # SQL-Project
 
-All the projects, notes related to SQL will be stored here
+Here is the zone in which I store all the projects, and practices linked to SQL 
+
+Quick access below:
+[- Data Cleaning ](url)
+
